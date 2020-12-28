@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">SplashScreen</string>
+    <string name="login">Login</string>
+    <string name="username">Username</string>
+    <string name="Password">password</string>
+    <string name="login_now">Login_now</string>
+    <string name="signup_now">Signup Now</string>
+    <string name="forgot_password">Forgot password</string>
+</resources>
